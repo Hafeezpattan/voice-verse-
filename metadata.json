@@ -1,0 +1,6 @@
+{
+  "name": "Voice Guard",
+  "description": "A secure, voice-activated sandboxed Android companion for executing offline camera and contact operations securely on device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
